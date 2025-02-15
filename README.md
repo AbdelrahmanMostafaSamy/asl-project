@@ -1,5 +1,6 @@
 Arabic Sign Language Translator Project
 
+
 Team members:
 
 Abdelrahman Mostafa Samy
